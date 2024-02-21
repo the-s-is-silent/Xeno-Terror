@@ -106,8 +106,7 @@
 	{
 		"name": "xenocide",
 		"notification": "Repeated encounters with hostile xeno lifeforms have driven us to bring about their extinction!",
-		"uniques": ["This Unit gains the [Xenocide] promotion",
-			"Gain a free [Xeno War Simulation Training] [in capital]"],
+		"uniques": ["This Unit gains the [Xenocide] promotion"],
 		"color": "#20afe8"
 	},
 	{
