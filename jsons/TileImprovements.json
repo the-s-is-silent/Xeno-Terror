@@ -1,0 +1,22 @@
+[
+	{ 
+		"name": "Barbarian encampment", 
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Gives a defensive bonus of [25]%",
+			"Provides a random bonus when entered",
+			"Unpillagable",
+			"Unbuildable"],
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Barbarian encampment",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Home to savage Xenos, will spawn a hostile xeno from time to time"
+			}
+			]
+	}
+]

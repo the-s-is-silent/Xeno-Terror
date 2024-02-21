@@ -1,0 +1,152 @@
+[
+	// Culture
+	{
+		"name": "shared cultural inspiration",
+		"notification": "Captured colonists share the secrets of their well-ordered society! (+[cultureAmount] culture)",
+		"uniques": ["Gain [50]-[100] [Culture]", "Only available <after [30] turns>"],
+		"color": "#cf8ff7"
+	},
+	{
+		"name": "adopt foreign policy",
+		"notification": "We have discovered a scripture of policy idea, we can now try to adopt it!",
+		"uniques": ["Free Social Policy", "Only available <before [70] turns>"],
+		"color": "#cf8ff7"
+	},
+	
+	// Science
+	{
+		"name": "discover a partial data schematic",
+		"notification": "We have found a data schematic in the crash site. Though much of the data has been corrupted, enough was still recovered to make it useful. (+50 science)",
+		"uniques": ["Gain [50] [Science]", "Only available <before [50] turns>"],
+		"color": "#7f7fff"
+	},
+	{
+		"name": "discover a research log",
+		"notification": "We have discovered a Field Scientist's research logs! (+[scienceAmount] science)",
+		"uniques": ["Gain [100]-[150] [Science]", "Only available <after [50] turns>"],
+		"color": "#7f7fff"
+	},
+	
+	// Credits
+	{
+		"name": "a credit chip",
+		"notification": "A credit chip was salvaged from the crash site, awarding [goldAmount] credits!",
+		"uniques": ["Gain [50]-[100] [Gold]"],
+		"color": "#ffeb7f"
+	},
+	{
+		"name": "a credit account",
+		"notification": "We have found an intact credit account in the crash site and recovered [goldAmount] credits!",
+		"uniques": ["Gain [150]-[250] [Gold]"],
+		"color": "#ffeb7f"
+	},
+	{
+		"name": "hit a jackpot",
+		"notification": "Jackpot! (+1000 credits)",
+		"uniques": ["Gain [1000] [Gold]", "Only available <after [75] turns>"],
+		"color": "#ffeb7f"
+	},
+	
+	// Faith
+	{
+		"name": "a praying visionary",
+		"notification": "A dying visionary imparts us with his last vision! (+[faithAmount] faith)",
+		"uniques": ["Hidden when religion is disabled", "Gain [100]-[250] [Faith]",
+			"Only available <after founding a Pantheon>",
+			"Only available <after [40] turns>"],
+		"color": "#CDDDF4"
+	},
+	{
+		"name": "terror in the stars",
+		"notification": "We gaze into the alien skies in fear as we catch glimpses of cosmic horrors! (Free Superstition)",
+		"uniques": ["Hidden when religion is disabled", "Gain a free [Pantheon] belief",
+			"Only available <after founding a Pantheon>",
+			"Only available <before [100] turns>"],
+		"color": "#CDDDF4",
+		"excludedDifficulties": ["Immortal", "Deity"]
+	},
+	
+	// Population
+	{
+		"name": "multiple cryopods (adds 3 population to a city)",
+		"notification": "A miracle across the stars - many cryopods have been found intact! Population added to [cityName].",
+		"uniques": ["[+3] population [in capital]", "Only available <after [40] turns>"],
+		"color": "#81c784"
+	},
+	
+	// Native
+	{
+		"name": "recruit a general",
+		"notification": "We have tracked down and recruited a [Great General]!",
+		"uniques": ["Free [Great General] found in the ruins", "Only available <after [50] turns>"],
+		"color": "#e89220",
+		"excludedDifficulties": ["Immortal", "Deity"]
+	},
+	{
+        "name": "save a merchant",
+        "notification": "We have succesfully rescued a [Great Merchant]!",
+        "uniques": ["Free [Great Merchant] found in the ruins", "Only available <after [50] turns>"],
+		"color": "#e89220",
+		"excludedDifficulties": ["Immortal", "Deity"]
+    },
+	
+	// Military
+	{
+		"name": "your exploring unit receives training",
+		"notification": "Our unit has gained experience from military logs recovered from the crash site!",
+		"uniques": ["This Unit gains [15] XP"],
+		"color": "#20afe8"
+	},
+	{
+		"name": "infernal training",
+		"notification": "Our unit experiences infernal training from a combat simulator recovered from the crash site!",
+		"uniques": ["This Unit gains [30] XP", "Only available <after [30] turns>"],
+		"color": "#20afe8"
+	},
+	{
+		"name": "xenocide",
+		"notification": "Repeated encounters with hostile xeno lifeforms have driven us to bring about their extinction!",
+		"uniques": ["This Unit gains the [Xenocide] promotion",
+			"Gain a free [Xeno War Simulation Training] [in capital]"],
+		"color": "#20afe8"
+	},
+	{
+        "name": "salvaged rover",
+        "notification": "A [Combat Rover] was recovered, repaired and deployed!",
+        "uniques": ["Free [Combat Rover] appears", "Only available <after [20] turns> <before [100] turns>"],
+		"color": "#20afe8"
+    },
+	{
+		"name": "levied exoframe unit",
+		"notification": "An [Exoframe Soldier] has joined us!",
+		"uniques": ["Free [Exoframe Soldier] appears", "Only available <after [100] turns>"],
+		"color": "#20afe8"
+	},
+	
+	// Maps
+	{
+		"name": "reveal nearby Bonus resource",
+		"notification": "You recovered data on vital resources!",
+		"uniques": ["Reveal up to [All] [Bonus resource] within a [10] tile radius",
+			"Only available <before [100] turns>"]
+	},
+	{
+		"name": "reveal nearby Luxury resource",
+		"notification": "You recovered data on rare and valuable resources!",
+		"uniques": ["Reveal up to [All] [Luxury resource] within a [7] tile radius",
+			"Only available <before [100] turns>"]
+	},
+	{
+		"name": "found partial survey data",
+		"notification": "We have found partial survey data from the crash site!",
+		"uniques": ["From a randomly chosen tile [5] tiles away from the ruins, reveal tiles up to [5] tiles away with [100]% chance"]
+	},
+	
+	// Triggerable
+	{
+		"name": "into era of greatness",
+		"notification": "Solving a potential problem has brought us into a new era of greatness!",
+		"uniques": ["Empire enters golden age", "Only available <after [50] turns>"],
+		"color": "#cf8ff7"
+	}
+]

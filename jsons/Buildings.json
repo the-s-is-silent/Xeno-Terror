@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Xeno War Simulation Training",
+		"isNationalWonder": true,
+		"uniques": [
+			"Military",
+			"Virtual",
+			"All newly-trained [Military] units [in this city] receive the [Xenocide] promotion",
+			"[+10]% Production towards constructing [Military] units [in all cities] <after adopting [Purification Ideology]>",
+			"Remove [Xeno War Simulation Training] from this city <after adopting [Symbiosis Ideology]>",
+			"Unbuildable"
+		],
+		"civilopediaText": [
+			{
+				"text": "Simulation training to prepare our forces against alien horrors and remind them exactly why these aliens are horrors."
+			}
+		]
+	}
+]

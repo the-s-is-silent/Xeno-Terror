@@ -1,0 +1,12 @@
+[
+	//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198, 243, 102],
+		"style": "xeno",
+		"uniques": ["Can only heal by pillaging",
+			"[+33]% Strength <vs [All] units> <when attacking>", 
+			"[+33]% Strength <within [2] tiles of a [Barbarian encampment]>"]
+	}
+]
