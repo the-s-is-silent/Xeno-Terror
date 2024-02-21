@@ -69,7 +69,7 @@
 	// Population
 	{
 		"name": "multiple cryopods (adds 3 population to a city)",
-		"notification": "A miracle across the stars - many cryopods have been found intact! Population added to [cityName].",
+		"notification": "A miracle across the stars - many cryopods have been found intact! A population boom is underway in the capital.",
 		"uniques": ["[+3] population [in capital]", "Only available <after [40] turns>"],
 		"color": "#81c784"
 	},
