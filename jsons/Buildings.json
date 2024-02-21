@@ -6,13 +6,13 @@
 			"Military",
 			"Virtual",
 			"All newly-trained [Military] units [in this city] receive the [Xenocide] promotion",
-			"[+10]% Production towards constructing [Military] units [in all cities] <after adopting [Purification Ideology]>",
-			"Remove [Xeno War Simulation Training] from this city <after adopting [Symbiosis Ideology]>",
+			"[+10]% Production when constructing [Military] units [in all cities]",
+			"Remove [Xeno War Simulation Training] [in this city] <after adopting [Symbiosis Ideology]>",
 			"Unbuildable"
 		],
 		"civilopediaText": [
 			{
-				"text": "Simulation training to prepare our forces against alien horrors and remind them exactly why these aliens are horrors."
+				"text": "Simulation training to prepare our forces against alien horrors and remind them exactly why these aliens are horrors.\nWe suffer not the abominations of the cosmos to live on our Frontier."
 			}
 		]
 	}
