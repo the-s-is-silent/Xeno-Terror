@@ -5,8 +5,10 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [198, 243, 102],
 		"style": "xeno",
-		"uniques": ["Can only heal by pillaging",
+		"uniques": ["[+1] Sight <for [Xeno Air] units>",
+			"[+1] Movement <for [Xeno Air] units>",
 			"[+33]% Strength <vs [All] units> <when attacking>", 
-			"[+33]% Strength <within [2] tiles of a [Barbarian encampment]>"]
+			"[+33]% Strength <within [3] tiles of a [Barbarian encampment]>",
+			"[+10] HP when healing <within [3] tiles of a [Barbarian encampment]>"]
 	}
 ]

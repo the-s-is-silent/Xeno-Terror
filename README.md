@@ -1,4 +1,4 @@
 # Xeno Terror
-Basically "The Barbarians" but for Alpha Frontier. Xeno Hives now award crash site effects... *if* you can clear them out.
+Basically "The Barbarians" mod but for Alpha Frontier. Xeno Hives now award crash site effects... *if* you can clear them out.
 
-Xeno units gain an additional 33% combat bonus when attacking any unit, along with another 33% bonus while they are close to their hive. However, the wider variety of crash site bonuses offers persevering colonists a chance to turn the tide against the Xeno threat.
+Xeno units gain an additional 33% combat bonus when attacking, along with another 33% bonus while they are within 3 tiles of a hive, and are no longer required to pillage tiles to heal (and, in fact, will heal faster when within 3 tiles to a hive). Airborne Xeno units receive an additional Sight and Movement bonus. Some new Xeno units are also present. However, the wider variety of crash site bonuses along with a new anti-Xeno national wonder offers persevering colonists a chance to turn the tide against the Xeno threat.

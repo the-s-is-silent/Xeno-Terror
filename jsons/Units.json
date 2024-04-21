@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Miasma Menace",
+		"unitType": "Xeno Melee Land",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 5,
+		"cost": 50,
+		"obsoleteTech": "Next-Gen Armaments",
+		"uniques": [
+			"Xeno",
+			"No defensive terrain penalty",
+			"[+50]% Strength <when fighting in [Miasma] tiles>",
+			"[+50]% Strength <when fighting in [Artificial Miasma] tiles>",
+			"[3] free [Miasma Menace] units appear <upon being defeated> <with [33]% chance>",
+			"Turn this tile into a [Miasma] tile <upon being defeated>"
+		],
+		"attackSound": "MonsterBite",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "Hazardous organic particles coalesced into a type of xenofauna that thrives in lands where other species cannot exist. Handle them the wrong way, and their spread will quickly spiral out of control."
+			}
+		]
+	},
+    {
+		"name": "Wendigo Colossus",
+		"unitType": "Xeno Melee Land",
+		"uniqueTo": "Barbarians",
+		"movement": 5,
+		"strength": 50,
+		"cost": 100,
+		"requiredTech": "Combat Mecha",
+		"uniques": [
+			"Xeno",
+			"[+33]% Strength <vs cities>",
+			"Heals [20] damage if it kills a unit",
+			"Uncapturable"
+		],
+		"promotions": ["Ignore terrain cost", "Bloodthirst", "Frenzy"],
+		"attackSound": "MonsterBite",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "A vastly more vicious strain of Wendigo with alarming speed and an insatiable hunger for human flesh."
+			}
+		]
+	},
+    {
+		"name": "Bladehead Racer",
+		"unitType": "Xeno Air",
+		"uniqueTo": "Barbarians",
+		"movement": 4,
+		"strength": 45,
+		"interceptRange": 2,
+		"cost": 100,
+		"requiredTech": "Lasers",
+		"uniques": [
+			"Xeno",
+			"Limited to [4] per Civilization",
+			"[25]% chance to intercept air attacks",
+			"[+30]% Strength <vs [Mech] units>",
+			"[+30]% Strength <vs [Drone] units>",
+			"[-33]% Strength <vs cities>",
+			"Uncapturable"
+		],
+		"promotions": ["Ignore terrain cost", "Bloodthirst", "Spike I", "Wings I"],
+		"attackSound": "MonsterBuzz",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "A vastly more vicious strain of Winghead, specially adapted to combat our advanced mecha and drone units."
+			}
+		]
+	}
+]

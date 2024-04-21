@@ -53,9 +53,9 @@
 	
 	// Population
 	{
-		"name": "multiple cryopods (adds 3 population to capital)",
-		"notification": "A miracle across the stars - many cryopods have been found intact! A population boom is underway in the capital.",
-		"uniques": ["[+3] population [in capital]", "Only available <after [40] turns>"],
+		"name": "multiple cryopods (adds population to all cities)",
+		"notification": "A miracle across the stars! Many cryopods have been found intact and their occupants resettled in our outposts.",
+		"uniques": ["[+1] population [in all cities]", "Only available <after [50] turns>"],
 		"color": "#81c784"
 	},
 	
@@ -83,9 +83,9 @@
 		"color": "#20afe8"
 	},
 	{
-		"name": "infernal training",
-		"notification": "Our unit experiences infernal training from a combat simulator recovered from the crash site!",
-		"uniques": ["This Unit gains [30] XP", "Only available <after [30] turns>"],
+		"name": "training from hell",
+		"notification": "Our unit experiences hellish training from a combat simulator recovered from the crash site!",
+		"uniques": ["This Unit gains [30] XP", "Only available <after [40] turns>"],
 		"color": "#20afe8"
 	},
 	{
