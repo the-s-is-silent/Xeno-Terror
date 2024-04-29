@@ -12,7 +12,7 @@
 			"No defensive terrain penalty",
 			"[+50]% Strength <when fighting in [Miasma] tiles>",
 			"[+50]% Strength <when fighting in [Artificial Miasma] tiles>",
-			"[3] free [Miasma Menace] units appear <upon being defeated> <with [33]% chance>",
+			"[2] free [Miasma Menace] units appear <upon being defeated> <with [33]% chance>",
 			"Turn this tile into a [Miasma] tile <upon being defeated>"
 		],
 		"attackSound": "MonsterBite",
