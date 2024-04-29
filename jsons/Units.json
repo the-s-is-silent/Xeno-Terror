@@ -32,7 +32,7 @@
 		"movement": 5,
 		"strength": 50,
 		"cost": 100,
-		"requiredTech": "Combat Mecha",
+		"requiredTech": "Combat Mechas",
 		"uniques": [
 			"Xeno",
 			"[+33]% Strength <vs cities>",
