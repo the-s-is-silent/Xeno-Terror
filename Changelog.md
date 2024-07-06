@@ -1,3 +1,6 @@
+## 1.1.1 (07/06/2024)
+- Updated all deprecated conditionals in Ruins.json to Unciv ver 4.12.3
+
 ## 1.1.0 (04/21/2024)
 - Buffed Xeno UA as follows:
     - Xeno Air units gain +1 Sight/Movement
@@ -5,7 +8,7 @@
     - Xeno units gain a healing bonus when close to a xeno hive
     - The range for the strength bonus when close to a xeno hive was increased to 3 tiles
 - Added new Xeno units:
-    - Miasma Menace (Tier 1 Melee Land, 5 strength, 2 base movement, obsoletes at Next-Gen Armaments, no terrain penalties, +50% strength in Miasma or Artificial Miasma, has a 1-in-3 chance on death to spawn 3 more copies of itself, turns the tile where it was killed into Miasma)
+    - Miasma Menace (Tier 1 Melee Land, 5 strength, 2 base movement, obsoletes at Next-Gen Armaments, no terrain penalties, +50% strength in Miasma or Artificial Miasma, has a 1-in-3 chance on death to spawn 2 more copies of itself, turns the tile where it was killed into Miasma)
     - Wendigo Colossus (Tier 3 Melee Land, 50 strength, 5 base movement, starts with Ignore terrain cost, Bloodthirst and Frenzy, +33% strength when attacking cities, recovers 20 HP for each unit it kills, cannot be captured)
     - Bladehead Racer (Tier 3 Air, 45 strength, 4 base movement, starts with Ignore terrain cost, Bloodthirst, Spike I and Wings I, 1-in-4 chance to intercept air attacks, +30% strength bonus against Mechs and Drones, cannot be captured)
 - The XP cap from combat with Xenos has been increased high enough that there may as well not be a cap.
