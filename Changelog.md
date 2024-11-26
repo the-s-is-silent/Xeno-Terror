@@ -1,3 +1,6 @@
+## 1.1.2 (11/26/2024)
+- Another update for deprecated conditionals
+
 ## 1.1.1 (07/06/2024)
 - Updated all deprecated conditionals in Ruins.json to Unciv ver 4.12.3
 
