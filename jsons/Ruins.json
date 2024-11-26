@@ -45,7 +45,7 @@
 	{
 		"name": "a praying visionary",
 		"notification": "A dying visionary imparts us with his last vision! (+[faithAmount] faith)",
-		"uniques": ["Hidden when religion is disabled", "Gain [100]-[250] [Faith]",
+		"uniques": ["Only available <when religion is enabled>", "Gain [100]-[250] [Faith]",
 			"Only available <after founding a Pantheon>",
 			"Only available <after turn number [40]>"],
 		"color": "#CDDDF4"
@@ -69,7 +69,7 @@
 	},
 	{
 		"name": "save a merchant",
-		"notification": "We have succesfully rescued a [Great Merchant]!",
+		"notification": "We have successfully rescued a [Great Merchant]!",
 		"uniques": ["Free [Great Merchant] found in the ruins", "Only available <after turn number [50]>"],
 		"color": "#e89220",
 		"excludedDifficulties": ["Immortal", "Deity"]
@@ -79,19 +79,19 @@
 	{
 		"name": "your exploring unit receives training",
 		"notification": "Our unit has gained experience from military logs recovered from the crash site!",
-		"uniques": ["This Unit gains [15] XP"],
+		"uniques": ["[This Unit] gains [15] XP"],
 		"color": "#20afe8"
 	},
 	{
 		"name": "training from hell",
 		"notification": "Our unit experiences hellish training from a combat simulator recovered from the crash site!",
-		"uniques": ["This Unit gains [30] XP", "Only available <after turn number [40]>"],
+		"uniques": ["[This Unit] gains [30] XP", "Only available <after turn number [40]>"],
 		"color": "#20afe8"
 	},
 	{
 		"name": "xenocide",
 		"notification": "Repeated encounters with hostile xeno lifeforms have driven our forces to bring about their extinction!",
-		"uniques": ["This Unit gains the [Xenocide] promotion"],
+		"uniques": ["[This Unit] gains the [Xenocide] promotion"],
 		"color": "#20afe8"
 	},
 	{
